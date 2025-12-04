@@ -3,9 +3,6 @@ import { RouterView } from 'vue-router'
 import { ref } from 'vue'
 import { useCarritoStore } from '@/stores/carrito'
 
-import '@/assets/js/jquery-3.4.1.min.js'
-import '@/assets/js/custom.js'
-import '@/assets/js/bootstrap.js'
 
 import MainHeader from './components/MainHeader.vue'
 import MainFooter from './components/MainFooter.vue'
